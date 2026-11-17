@@ -1,0 +1,17 @@
+[
+  {"date": "{{date:-3}} 13:30:00", "country": "US", "event": "Initial Jobless Claims", "currency": "USD", "previous": 228, "estimate": 225, "actual": 221, "change": -7, "impact": "Medium", "changePercentage": -3.07, "unit": "K"},
+  {"date": "{{date:-1}} 13:30:00", "country": "US", "event": "Nonfarm Payrolls (Oct)", "currency": "USD", "previous": 119, "estimate": 130, "actual": 145, "change": 26, "impact": "High", "changePercentage": 21.85, "unit": "K"},
+  {"date": "{{date:-1}} 13:30:00", "country": "US", "event": "Unemployment Rate (Oct)", "currency": "USD", "previous": 4.2, "estimate": 4.3, "actual": 4.3, "change": 0.1, "impact": "High", "changePercentage": 2.38, "unit": "%"},
+  {"date": "{{date:-1}} 13:30:00", "country": "US", "event": "Average Hourly Earnings MoM (Oct)", "currency": "USD", "previous": 0.3, "estimate": 0.3, "actual": 0.4, "change": 0.1, "impact": "Medium", "changePercentage": 33.3, "unit": "%"},
+  {"date": "{{date:-1}} 15:00:00", "country": "US", "event": "Michigan Consumer Sentiment Prel (Nov)", "currency": "USD", "previous": 53.6, "estimate": 53, "actual": 54.2, "change": 0.6, "impact": "Medium", "changePercentage": 1.12, "unit": ""},
+  {"date": "{{date:-1}} 07:00:00", "country": "DE", "event": "Industrial Production MoM (Sep)", "currency": "EUR", "previous": -0.4, "estimate": 0.5, "actual": 0.7, "change": 1.1, "impact": "Medium", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+1}} 01:30:00", "country": "CN", "event": "Inflation Rate YoY (Oct)", "currency": "CNY", "previous": 0.1, "estimate": 0.2, "actual": null, "change": null, "impact": "Medium", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+2}} 19:00:00", "country": "US", "event": "Monthly Budget Statement (Oct)", "currency": "USD", "previous": 198, "estimate": null, "actual": null, "change": null, "impact": "Low", "changePercentage": null, "unit": "B"},
+  {"date": "{{date:+3}} 07:00:00", "country": "GB", "event": "GDP Growth Rate QoQ Prel (Q3)", "currency": "GBP", "previous": 0.3, "estimate": 0.2, "actual": null, "change": null, "impact": "High", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+4}} 13:30:00", "country": "US", "event": "CPI YoY (Oct)", "currency": "USD", "previous": 3.0, "estimate": 3.0, "actual": null, "change": null, "impact": "High", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+4}} 13:30:00", "country": "US", "event": "Core CPI MoM (Oct)", "currency": "USD", "previous": 0.2, "estimate": 0.3, "actual": null, "change": null, "impact": "High", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+5}} 13:30:00", "country": "US", "event": "PPI MoM (Oct)", "currency": "USD", "previous": -0.1, "estimate": 0.2, "actual": null, "change": null, "impact": "Medium", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+5}} 13:30:00", "country": "US", "event": "Initial Jobless Claims", "currency": "USD", "previous": 221, "estimate": 224, "actual": null, "change": null, "impact": "Medium", "changePercentage": null, "unit": "K"},
+  {"date": "{{date:+6}} 13:30:00", "country": "US", "event": "Retail Sales MoM (Oct)", "currency": "USD", "previous": 0.6, "estimate": 0.4, "actual": null, "change": null, "impact": "High", "changePercentage": null, "unit": "%"},
+  {"date": "{{date:+6}} 14:15:00", "country": "US", "event": "Industrial Production MoM (Oct)", "currency": "USD", "previous": 0.1, "estimate": 0.2, "actual": null, "change": null, "impact": "Medium", "changePercentage": null, "unit": "%"}
+]

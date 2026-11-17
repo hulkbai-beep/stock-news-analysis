@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>FRB: Speeches and Testimony (offline sample)</title>
+<link>https://www.federalreserve.gov/feeds/speeches_and_testimony.html</link>
+<item>
+<title>Sample Governor, The Economic Outlook</title>
+<link>https://www.example.gov/newsevents/speech/sample-20261105a.htm</link>
+<guid isPermaLink="true">https://www.example.gov/newsevents/speech/sample-20261105a.htm</guid>
+<description>Speech at a sample economic forum</description>
+<category>Speeches</category>
+<pubDate>{{rfc:-50h}}</pubDate>
+</item>
+<item>
+<title>Sample Vice Chair, Bank Supervision Priorities</title>
+<link>https://www.example.gov/newsevents/testimony/sample-20261029a.htm</link>
+<guid isPermaLink="true">https://www.example.gov/newsevents/testimony/sample-20261029a.htm</guid>
+<description>Testimony before a sample committee</description>
+<category>Testimony</category>
+<pubDate>{{rfc:-220h}}</pubDate>
+</item>
+<item>
+<title>Sample President, Inflation Expectations</title>
+<link>https://www.example.gov/newsevents/speech/sample-20261015a.htm</link>
+<guid isPermaLink="true">https://www.example.gov/newsevents/speech/sample-20261015a.htm</guid>
+<description>Speech at a sample university</description>
+<category>Speeches</category>
+<pubDate>Thu, 9 Jul 2026 19:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

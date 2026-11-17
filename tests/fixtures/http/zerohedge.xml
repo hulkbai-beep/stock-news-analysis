@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>ZeroHedge News (offline sample)</title>
+<link>https://www.zerohedge.com</link>
+<item>
+<title>Funding Markets Show Signs Of Year-End Strain</title>
+<link>https://www.example.org/markets/funding-markets-year-end-strain</link>
+<description>&lt;p&gt;Repo rates ticked higher again this week&amp;nbsp;as balance-sheet constraints approach.&lt;/p&gt;</description>
+<pubDate>{{rfc:-3h}}</pubDate>
+<dc:creator>Sample Desk</dc:creator>
+<guid isPermaLink="false">zh-sample-1</guid>
+</item>
+<item>
+<title>Hedge Funds Cut Gross Exposure Into Month-End</title>
+<link>https://www.example.org/markets/hedge-funds-cut-gross-exposure</link>
+<description>&lt;p&gt;Prime broker data show leverage coming down from recent highs.&lt;/p&gt;</description>
+<pubDate>{{rfc:-14h}}</pubDate>
+<dc:creator>Sample Desk</dc:creator>
+<guid isPermaLink="false">zh-sample-2</guid>
+</item>
+</channel>
+</rss>

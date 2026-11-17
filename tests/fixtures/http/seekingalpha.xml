@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sa="https://seekingalpha.com/api/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Demo Robotics Inc. (DEMO) | Seeking Alpha</title>
+<link>https://seekingalpha.com</link>
+<description>Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use.</description>
+<item>
+<title>Demo Robotics: Competitive Moat Widening; Buy</title>
+<link>https://example.com/article/demo-moat-widening?source=feed_symbol_DEMO</link>
+<guid isPermaLink="false">sa-1001</guid>
+<pubDate>{{rfc:-6h}}</pubDate>
+<sa:author_name>Sample Analyst</sa:author_name>
+<sa:stock><sa:symbol>DEMO</sa:symbol><sa:company_name>Demo Robotics Inc.</sa:company_name></sa:stock>
+</item>
+<item>
+<title>Demo Robotics: Valuation Already Prices In The Outlook Raise</title>
+<link>https://example.com/article/demo-valuation-prices-in?source=feed_symbol_DEMO</link>
+<guid isPermaLink="false">sa-1002</guid>
+<pubDate>{{rfc:-26h}}</pubDate>
+<sa:author_name>Example Research</sa:author_name>
+<sa:stock><sa:symbol>DEMO</sa:symbol><sa:company_name>Demo Robotics Inc.</sa:company_name></sa:stock>
+</item>
+<item>
+<title>Demo Robotics: Orders Accelerate, But Watch The Supply Chain</title>
+<link>https://example.com/article/demo-orders-accelerate?source=feed_symbol_DEMO</link>
+<guid isPermaLink="false">sa-1003</guid>
+<pubDate>{{rfc:-60h}}</pubDate>
+<sa:author_name>Sample Value Investor</sa:author_name>
+<sa:stock><sa:symbol>DEMO</sa:symbol><sa:company_name>Demo Robotics Inc.</sa:company_name></sa:stock>
+</item>
+<item>
+<title>Demo Robotics Q3 2026 Earnings Call Transcript</title>
+<link>https://example.com/article/demo-q3-2026-earnings-call-transcript?source=feed_symbol_DEMO</link>
+<guid isPermaLink="false">sa-1004</guid>
+<pubDate>{{rfc:-330h}}</pubDate>
+<sa:author_name>SA Transcripts</sa:author_name>
+<sa:stock><sa:symbol>DEMO</sa:symbol><sa:company_name>Demo Robotics Inc.</sa:company_name></sa:stock>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>FRB: Press Release - Monetary Policy (offline sample)</title>
+<link>https://www.federalreserve.gov/feeds/press_monetary.html</link>
+<item>
+<title>Sample release: FOMC statement</title>
+<link><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-a.htm]]></link>
+<guid isPermaLink="true"><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-a.htm]]></guid>
+<description><![CDATA[Sample text standing in for a policy statement.]]></description>
+<category>Monetary Policy</category>
+<pubDate><![CDATA[{{rfc:-240h}}]]></pubDate>
+</item>
+<item>
+<title>Sample release: Minutes of the Federal Open Market Committee</title>
+<link><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-b.htm]]></link>
+<guid isPermaLink="true"><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-b.htm]]></guid>
+<description><![CDATA[Sample text standing in for meeting minutes.]]></description>
+<category>Monetary Policy</category>
+<pubDate><![CDATA[{{rfc:-600h}}]]></pubDate>
+</item>
+<item>
+<title>Sample release: Implementation note</title>
+<link><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-c.htm]]></link>
+<guid isPermaLink="true"><![CDATA[https://www.example.gov/newsevents/pressreleases/monetary-sample-c.htm]]></guid>
+<description><![CDATA[Sample text.]]></description>
+<category>Monetary Policy</category>
+<pubDate><![CDATA[Wed, 7 Oct 2026 18:00:00 GMT]]></pubDate>
+</item>
+</channel>
+</rss>

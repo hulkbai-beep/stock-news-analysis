@@ -1,0 +1,8 @@
+[
+  {"symbol": "DEMO", "date": "{{date:-1}}", "gradingCompany": "Sample Securities", "previousGrade": "Overweight", "newGrade": "Overweight", "action": "maintain"},
+  {"symbol": "DEMO", "date": "{{date:-3}}", "gradingCompany": "Example Capital Markets", "previousGrade": "Hold", "newGrade": "Buy", "action": "upgrade"},
+  {"symbol": "DEMO", "date": "{{date:-15}}", "gradingCompany": "Placeholder & Co", "previousGrade": "Neutral", "newGrade": "Neutral", "action": "maintain"},
+  {"symbol": "DEMO", "date": "{{date:-16}}", "gradingCompany": "Sample Securities", "previousGrade": "Overweight", "newGrade": "Overweight", "action": "maintain"},
+  {"symbol": "DEMO", "date": "{{date:-40}}", "gradingCompany": "Demo Research Partners", "previousGrade": "Buy", "newGrade": "Hold", "action": "downgrade"},
+  {"symbol": "DEMO", "date": "{{date:-70}}", "gradingCompany": "Illustrative Bank", "previousGrade": "", "newGrade": "Outperform", "action": "initialise"}
+]

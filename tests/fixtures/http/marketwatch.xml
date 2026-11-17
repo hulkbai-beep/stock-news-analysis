@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>MarketWatch.com - Top Stories (offline sample)</title>
+<link>https://www.marketwatch.com</link>
+<item>
+<guid isPermaLink="false">mw-sample-1</guid>
+<title>Stocks drift as investors look ahead to next week's inflation report</title>
+<description>The major indexes moved in a narrow range as traders positioned for the consumer price data.</description>
+<link>https://www.example.com/story/stocks-drift-inflation-report?mod=mw_rss_topstories</link>
+<pubDate>{{rfc:-1h}}</pubDate>
+<dc:creator>Sample Reporter</dc:creator>
+</item>
+<item>
+<guid isPermaLink="false">mw-sample-2</guid>
+<title>Chip stocks rebound after a volatile week. Is the selloff over?</title>
+<description>Analysts warn of further volatility ahead, though some factors work in the sector's favor.</description>
+<link>https://www.example.com/story/chip-stocks-rebound?mod=mw_rss_topstories</link>
+<pubDate>{{rfc:-5h}}</pubDate>
+<dc:creator>Sample Reporter</dc:creator>
+</item>
+<item>
+<guid isPermaLink="false">mw-sample-3</guid>
+<title>Treasury yields edge higher as traders weigh next week&#8217;s inflation data</title>
+<description>Longer-dated yields rose for a second day.</description>
+<link>https://www.example.com/markets/yields-edge-higher?mod=mw_rss_topstories</link>
+<pubDate>{{rfc:-2h}}</pubDate>
+<dc:creator>Another Reporter</dc:creator>
+</item>
+<item>
+<guid isPermaLink="false">mw-sample-4</guid>
+<title>Here&#8217;s what the latest jobs report means for the Fed&#8217;s December meeting</title>
+<description>Economists are split on whether the labor data changes the path of rates.</description>
+<link>https://www.example.com/story/jobs-report-fed-december?mod=mw_rss_topstories</link>
+<pubDate>{{rfc:-20h}}</pubDate>
+<dc:creator>Sample Economics Editor</dc:creator>
+</item>
+</channel>
+</rss>
