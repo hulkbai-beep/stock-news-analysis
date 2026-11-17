@@ -1,0 +1,5 @@
+[
+  {"category": "company", "datetime": {{unix:-9h}}, "headline": "Demo Robotics wins contract to automate sample retailer's warehouses", "id": 9001, "image": "", "related": "DEMO", "source": "Reuters", "summary": "Demo Robotics will supply automated picking systems under a three-year contract.", "url": "https://www.example.org/business/demo-robotics-wins-contract/"},
+  {"category": "company", "datetime": {{unix:-16h}}, "headline": "Demo Robotics adds former logistics executive to its board", "id": 9002, "image": "", "related": "DEMO", "source": "Yahoo", "summary": "The company appointed a new independent director with supply-chain experience.", "url": "https://www.example.com/news/demo-robotics-adds-board-member"},
+  {"category": "company", "datetime": {{unix:-90h}}, "headline": "3 Automation Stocks to Watch After a Volatile Week", "id": 9003, "image": "", "related": "DEMO", "source": "Zacks", "summary": "A screen of automation names with positive estimate revisions.", "url": "https://www.example.com/commentary/3-automation-stocks-to-watch"}
+]

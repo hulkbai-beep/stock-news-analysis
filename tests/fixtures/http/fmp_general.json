@@ -1,0 +1,6 @@
+[
+  {"symbol": null, "publishedDate": "{{fmp:-1h}}", "publisher": "Sample Markets Wire", "title": "Treasury yields edge higher as traders weigh next week's inflation data", "image": "", "site": "example.com", "text": "Longer-dated yields rose for a second day ahead of the consumer price report.", "url": "https://www.example.com/markets/yields-edge-higher"},
+  {"symbol": null, "publishedDate": "{{fmp:-4h}}", "publisher": "Sample Business Daily", "title": "Oil steadies after a weekly decline on supply concerns", "image": "", "site": "example.org", "text": "Crude prices were little changed after falling earlier in the week.", "url": "https://www.example.org/commodities/oil-steadies"},
+  {"symbol": null, "publishedDate": "{{fmp:-8h}}", "publisher": "Sample Markets Wire", "title": "Dollar holds gains against major currencies after labor report", "image": "", "site": "example.com", "text": "The dollar kept most of its gains following the monthly jobs data.", "url": "https://www.example.com/fx/dollar-holds-gains"},
+  {"symbol": null, "publishedDate": "{{fmp:-22h}}", "publisher": "Sample Business Daily", "title": "Small caps lag as investors rotate back into large technology names", "image": "", "site": "example.org", "text": "The Russell 2000 underperformed the S&P 500 for a third session.", "url": "https://www.example.org/stocks/small-caps-lag"}
+]

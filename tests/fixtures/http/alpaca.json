@@ -1,0 +1,8 @@
+{
+  "news": [
+    {"id": 7001, "headline": "Demo Robotics Stock Jumps: Here's What Investors Need To Know", "author": "Sample Author", "created_at": "{{iso:-7h}}", "updated_at": "{{iso:-7h}}", "summary": "Shares rose after the company updated its outlook.", "content": "", "images": [], "symbols": ["DEMO"], "source": "benzinga", "url": "https://www.example.com/markets/demo-stock-jumps-what-to-know"},
+    {"id": 7002, "headline": "Demo Robotics Shares Are Trading Higher: What's Going On?", "author": "Sample Author", "created_at": "{{iso:-3h}}", "updated_at": "{{iso:-3h}}", "summary": "Shares were trading higher after the outlook raise.", "content": "", "images": [], "symbols": ["DEMO"], "source": "benzinga", "url": "https://www.example.com/movers/demo-trading-higher"},
+    {"id": 7003, "headline": "Demo Robotics Unusual Options Activity", "author": "Sample Desk", "created_at": "{{iso:-58h}}", "updated_at": "{{iso:-58h}}", "summary": "", "content": "", "images": [], "symbols": ["DEMO"], "source": "benzinga", "url": "https://www.example.com/markets/options/demo-unusual-activity"}
+  ],
+  "next_page_token": null
+}

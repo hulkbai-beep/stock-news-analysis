@@ -1,0 +1,6 @@
+[{"symbol": "DEMO", "price": 158.42, "marketCap": 48200000000, "beta": 1.42, "lastDividend": 0.48, "range": "112.10-177.40",
+  "change": 4.76, "changePercentage": 3.1, "volume": 6120000, "averageVolume": 4870000, "companyName": "Demo Robotics Inc.",
+  "currency": "USD", "cik": "0009999901", "isin": "", "cusip": "", "exchangeFullName": "NASDAQ Global Select", "exchange": "NASDAQ",
+  "industry": "Specialty Industrial Machinery", "website": "https://www.example.com", "description": "Demo Robotics Inc. is a fictional company used as offline sample data. It designs warehouse picking robots and the software that runs them.",
+  "ceo": "Sample Person", "sector": "Industrials", "country": "US", "fullTimeEmployees": "12400", "ipoDate": "2014-05-21",
+  "isEtf": false, "isActivelyTrading": true, "isAdr": false, "isFund": false}]

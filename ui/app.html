@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新闻与机构行为</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap bar">
+    <a href="/" class="brand">新闻与机构行为</a>
+    <form id="top-search" class="top-search" role="search" autocomplete="off">
+      <input id="top-sym" spellcheck="false" aria-label="股票代码" placeholder="代码，按 / 搜索">
+    </form>
+    <nav>
+      <a href="/" data-nav="home">宏观</a>
+      <a href="/status" data-nav="status">数据源</a>
+    </nav>
+  </div>
+</header>
+<div id="offline" class="wrap" hidden></div>
+<main id="app" class="wrap"></main>
+<footer class="wrap disclaimer">只抓取和展示公开数据，不做 AI 打分；情绪标签是 Massive 随新闻附带的 insights。供个人研究，不构成投资建议。</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{"articles": [
+  {"url": "https://example.org/local/business/demo-robotics-plant-hiring", "url_mobile": "", "title": "Demo Robotics plant to add 300 jobs as orders grow", "seendate": "{{gdelt:-11h}}", "socialimage": "", "domain": "example.org", "language": "English", "sourcecountry": "United States"},
+  {"url": "https://example.net/tech/warehouse-robots-demand", "url_mobile": "", "title": "Warehouse robot demand climbs as retailers prepare for holidays", "seendate": "{{gdelt:-29h}}", "socialimage": "", "domain": "example.net", "language": "English", "sourcecountry": "United Kingdom"},
+  {"url": "https://www.example.com/news/demo-robotics-raises-outlook", "url_mobile": "", "title": "Demo Robotics Raises Full-Year Delivery Outlook After Strong Warehouse Orders", "seendate": "{{gdelt:-1h}}", "socialimage": "", "domain": "example.com", "language": "English", "sourcecountry": "United States"}
+]}

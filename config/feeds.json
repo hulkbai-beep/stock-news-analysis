@@ -1,0 +1,71 @@
+{
+  "_note": "Free feeds and series the page reads. Edit freely; {symbol} in a URL is replaced by the ticker. Checked = fetched successfully on that date.",
+  "macro_news": [
+    {"id": "marketwatch", "label": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "lang": "en", "checked": "2026-11-07"},
+    {"id": "zerohedge", "label": "ZeroHedge", "url": "https://feeds.feedburner.com/zerohedge/feed", "lang": "en", "checked": "2026-11-07"}
+  ],
+  "fed": [
+    {"id": "fed_monetary", "label": "货币政策", "publisher": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_monetary.xml", "lang": "en", "checked": "2026-11-07"},
+    {"id": "fed_speeches", "label": "讲话与国会证词", "publisher": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml", "lang": "en", "checked": "2026-11-07"}
+  ],
+  "ticker_feeds": [
+    {"id": "seekingalpha", "label": "Seeking Alpha", "url": "https://seekingalpha.com/api/sa/combined/{symbol}.xml", "lang": "en", "kind": "analysis", "checked": "2026-11-07", "terms": "feed says personal, non-commercial use only"},
+    {"id": "nasdaq", "label": "Nasdaq", "url": "https://www.nasdaq.com/feed/rssoutbound?symbol={symbol}", "lang": "en", "checked": "2026-11-07"}
+  ],
+  "market_quotes": [
+    {"symbol": "SPY", "label": "标普 500"}, {"symbol": "QQQ", "label": "纳指 100"}, {"symbol": "DIA", "label": "道指"},
+    {"symbol": "IWM", "label": "罗素 2000"}, {"symbol": "TLT", "label": "20 年以上美债"}, {"symbol": "HYG", "label": "高收益债"},
+    {"symbol": "GLD", "label": "黄金"}, {"symbol": "USO", "label": "原油"}, {"symbol": "UUP", "label": "美元"}
+  ],
+  "sector_quotes": [
+    {"symbol": "XLK", "label": "科技"}, {"symbol": "XLC", "label": "通信服务"}, {"symbol": "XLY", "label": "可选消费"},
+    {"symbol": "XLF", "label": "金融"}, {"symbol": "XLV", "label": "医疗"}, {"symbol": "XLI", "label": "工业"},
+    {"symbol": "XLE", "label": "能源"}, {"symbol": "XLB", "label": "材料"}, {"symbol": "XLP", "label": "必需消费"},
+    {"symbol": "XLU", "label": "公用事业"}, {"symbol": "XLRE", "label": "房地产"}, {"symbol": "SMH", "label": "半导体"}
+  ],
+  "fred_groups": [
+    {"title": "利率", "series": [
+      {"id": "DFF", "label": "联邦基金有效利率", "unit": "%", "change": "bp"},
+      {"id": "DGS2", "label": "2 年美债收益率", "unit": "%", "change": "bp"},
+      {"id": "DGS10", "label": "10 年美债收益率", "unit": "%", "change": "bp"},
+      {"id": "T10Y2Y", "label": "10 年减 2 年利差", "unit": "%", "change": "bp"},
+      {"id": "T10Y3M", "label": "10 年减 3 个月利差", "unit": "%", "change": "bp"},
+      {"id": "T10YIE", "label": "10 年通胀预期（盈亏平衡）", "unit": "%", "change": "bp"}
+    ]},
+    {"title": "信用与金融条件", "series": [
+      {"id": "BAMLH0A0HYM2", "label": "高收益债利差 OAS", "unit": "%", "change": "bp"},
+      {"id": "BAMLC0A0CM", "label": "投资级债利差 OAS", "unit": "%", "change": "bp"},
+      {"id": "NFCI", "label": "芝加哥联储金融条件指数（周）", "unit": "", "change": "abs", "note": "负数表示比历史平均宽松"}
+    ]},
+    {"title": "波动率、美元与原油", "series": [
+      {"id": "VIXCLS", "label": "VIX", "unit": "", "change": "abs"},
+      {"id": "VXVCLS", "label": "VIX3M（3 个月）", "unit": "", "change": "abs"},
+      {"id": "DTWEXBGS", "label": "美元指数（广义贸易加权）", "unit": "", "change": "pct"},
+      {"id": "DCOILWTICO", "label": "WTI 原油", "unit": "$", "change": "pct"}
+    ]},
+    {"title": "通胀与就业（月度/周度）", "series": [
+      {"id": "CPIAUCSL", "label": "CPI 同比", "unit": "%", "transform": "yoy", "change": "pp"},
+      {"id": "CPILFESL", "label": "核心 CPI 同比", "unit": "%", "transform": "yoy", "change": "pp"},
+      {"id": "PCEPILFE", "label": "核心 PCE 同比", "unit": "%", "transform": "yoy", "change": "pp"},
+      {"id": "UNRATE", "label": "失业率", "unit": "%", "change": "pp"},
+      {"id": "PAYEMS", "label": "非农就业月增（千人）", "unit": "", "transform": "diff", "change": "abs"},
+      {"id": "ICSA", "label": "首次申领失业金（周）", "unit": "", "change": "pct"}
+    ]},
+    {"title": "股指收盘（FRED，晚一个交易日）", "series": [
+      {"id": "SP500", "label": "标普 500", "unit": "", "change": "pct"},
+      {"id": "NASDAQCOM", "label": "纳斯达克综合", "unit": "", "change": "pct"},
+      {"id": "DJIA", "label": "道琼斯工业", "unit": "", "change": "pct"}
+    ]}
+  ],
+  "cot_markets": [
+    {"code": "13874A", "label": "标普 500 E-mini"},
+    {"code": "209742", "label": "纳指 100 E-mini"},
+    {"code": "239742", "label": "罗素 2000 E-mini"},
+    {"code": "124603", "label": "道指 E-mini"},
+    {"code": "042601", "label": "2 年美债期货"},
+    {"code": "043602", "label": "10 年美债期货"},
+    {"code": "020601", "label": "30 年美债期货"},
+    {"code": "1170E1", "label": "VIX 期货"},
+    {"code": "098662", "label": "美元指数期货"}
+  ]
+}

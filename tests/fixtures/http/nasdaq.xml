@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:nasdaq="http://nasdaq.com/reference/feeds/1.0">
+<channel>
+<title>Nasdaq: DEMO articles</title>
+<link>https://www.nasdaq.com</link>
+<item>
+<title>Interesting DEMO Call Options For January 2027</title>
+<link>https://www.example.com/articles/interesting-demo-call-options-january-2027</link>
+<description>Investors in Demo Robotics Inc saw new options become available today, for the January 2027 expiration. One of the key data points...</description>
+<pubDate>{{rfc:-12h}}</pubDate>
+<guid isPermaLink="true">https://www.example.com/articles/interesting-demo-call-options-january-2027</guid>
+<dc:creator>Sample Options Desk</dc:creator>
+<category>Markets</category>
+<nasdaq:tickers>NASDAQ:DEMO</nasdaq:tickers>
+</item>
+<item>
+<title>Automation stocks rally as retailers step up warehouse spending</title>
+<link>https://www.example.net/2026/automation-stocks-rally/</link>
+<description>Shares of robotics and automation makers rose as retailers raised spending plans...</description>
+<pubDate>{{rfc:-43h}}</pubDate>
+<guid isPermaLink="true">https://www.example.net/2026/automation-stocks-rally</guid>
+<dc:creator>Sample Newsroom</dc:creator>
+<nasdaq:tickers>NASDAQ:DEMO,NYSE:SAMP</nasdaq:tickers>
+</item>
+<item>
+<title>Validea Guru Fundamental Report for DEMO</title>
+<link>https://www.example.com/articles/validea-guru-report-demo</link>
+<description>Below is the fundamental report for Demo Robotics Inc based on several investment strategies...</description>
+<pubDate>{{rfc:-200h}}</pubDate>
+<guid isPermaLink="true">https://www.example.com/articles/validea-guru-report-demo</guid>
+<dc:creator>Sample Research</dc:creator>
+<nasdaq:tickers>NASDAQ:DEMO</nasdaq:tickers>
+</item>
+</channel>
+</rss>

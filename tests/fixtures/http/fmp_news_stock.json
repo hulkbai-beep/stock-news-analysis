@@ -1,0 +1,16 @@
+[
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-2h}}", "publisher": "Benzinga", "title": "Demo Robotics Raises Full-Year Delivery Outlook After Strong Warehouse Orders",
+   "image": "", "site": "example.com", "text": "Demo Robotics lifted its full-year delivery outlook.", "url": "https://example.com/news/demo-robotics-raises-outlook"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-9h}}", "publisher": "Reuters", "title": "Demo Robotics wins contract to automate sample retailer's warehouses",
+   "image": "", "site": "example.org", "text": "Demo Robotics will supply automated picking systems to a large retailer under a three-year contract.", "url": "https://www.example.org/business/demo-robotics-wins-contract"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-26h}}", "publisher": "Seeking Alpha", "title": "Demo Robotics: Valuation Already Prices In The Outlook Raise",
+   "image": "", "site": "example.com", "text": "The author argues the shares trade at a premium to peers after the recent rally.", "url": "https://example.com/article/demo-valuation-prices-in"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-31h}}", "publisher": "Investing.com", "title": "Demo Robotics shares slip as supplier flags component delays",
+   "image": "", "site": "example.com", "text": "A key supplier said shipments may be delayed.", "url": "https://www.example.com/news/stock-market-news/demo-supplier-delays?utm_campaign=fmp"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-44h}}", "publisher": "CNBC", "title": "Automation stocks rally as retailers step up warehouse spending",
+   "image": "", "site": "example.net", "text": "Shares of robotics and automation makers including Demo Robotics rose as retailers raised capital spending plans.", "url": "https://www.example.net/2026/automation-stocks-rally"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-80h}}", "publisher": "Barron's", "title": "Demo Robotics Stock Is a Buy Says Analyst. Margins Are the Key.",
+   "image": "", "site": "example.org", "text": "An analyst upgraded the stock, citing improving gross margins on newer systems.", "url": "https://www.example.org/articles/demo-robotics-stock-buy-margins"},
+  {"symbol": "DEMO", "publishedDate": "{{fmp:-150h}}", "publisher": "Zacks", "title": "Demo Robotics (DEMO) Up 6.1% Since Last Earnings Report: Can It Continue?",
+   "image": "", "site": "example.com", "text": "A look at estimate revisions since the last earnings report.", "url": "https://www.example.com/stock/news/demo-up-since-earnings"}
+]

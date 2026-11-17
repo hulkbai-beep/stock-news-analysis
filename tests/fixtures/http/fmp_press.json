@@ -1,0 +1,6 @@
+[
+  {"symbol": "DEMO", "date": "{{fmp:-20h}}", "publisher": "GlobeNewswire", "title": "Demo Robotics to Present at Sample Securities Industrials Conference",
+   "image": "", "site": "example.net", "text": "Demo Robotics, Inc. today announced that management will present at an investor conference.", "url": "https://www.example.net/news-release/demo-robotics-to-present"},
+  {"symbol": "DEMO", "date": "{{fmp:-170h}}", "publisher": "GlobeNewswire", "title": "Demo Robotics Declares Quarterly Dividend",
+   "image": "", "site": "example.net", "text": "The Board of Directors declared a quarterly cash dividend of $0.12 per share.", "url": "https://www.example.net/news-release/demo-robotics-declares-dividend"}
+]
